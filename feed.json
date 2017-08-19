@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "segue",
+    "description": "",
+    "home_page_url": "http://seguegoods.com",
+    "feed_url": "http://seguegoods.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Art Blanc"
+    },
+    "items": [
+        {
+            "id": "http://seguegoods.com/this-is-only-a-test.html",
+            "url": "http://seguegoods.com/this-is-only-a-test.html",
+            "title": "This is only a test",
+            "content_html": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "author": {
+                "name": "Art Blanc"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-19T21:24:28+07:00",
+            "date_modified": "2017-08-19T21:23:37+07:00"
+        }
+    ]
+}
