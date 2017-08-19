@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>segue</title>
-    <link href="http://seguegoods.com/feed.xml" rel="self" />
-    <link href="http://seguegoods.com" />
-    <updated>2017-08-19T21:24:28+07:00</updated>
+    <link href="https://artblanc.github.io/segue-publii/feed.xml" rel="self" />
+    <link href="https://artblanc.github.io/segue-publii" />
+    <updated>2017-08-19T21:27:08+07:00</updated>
     <author>
         <name>Art Blanc</name>
     </author>
-    <id>http://seguegoods.com</id>
+    <id>https://artblanc.github.io/segue-publii</id>
 
     <entry>
         <title>This is only a test</title>
         <author>
             <name>Art Blanc</name>
         </author>
-        <link href="http://seguegoods.com/this-is-only-a-test.html"/>
-        <id>http://seguegoods.com/this-is-only-a-test.html</id>
+        <link href="https://artblanc.github.io/segue-publii/this-is-only-a-test.html"/>
+        <id>https://artblanc.github.io/segue-publii/this-is-only-a-test.html</id>
 
         <updated>2017-08-19T21:23:37+07:00</updated>
             <summary></summary>
