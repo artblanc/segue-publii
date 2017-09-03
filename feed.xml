@@ -3,14 +3,27 @@
     <title>segue</title>
     <link href="https://artblanc.github.io/segue-publii/feed.xml" rel="self" />
     <link href="https://artblanc.github.io/segue-publii" />
-    <updated>2017-09-03T17:57:22+07:00</updated>
+    <updated>2017-09-03T23:01:30+07:00</updated>
     <author>
         <name>Art Blanc</name>
     </author>
     <id>https://artblanc.github.io/segue-publii</id>
 
     <entry>
-        <title>Blindfold</title>
+        <title>Ordinary Passport Cover</title>
+        <author>
+            <name>Art Blanc</name>
+        </author>
+        <link href="https://artblanc.github.io/segue-publii/blindfold-wallet-copy/"/>
+        <id>https://artblanc.github.io/segue-publii/blindfold-wallet-copy/</id>
+            <category term="goods"/>
+
+        <updated>2017-09-03T18:35:53+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Mundane Blankfold</title>
         <author>
             <name>Art Blanc</name>
         </author>
@@ -18,7 +31,7 @@
         <id>https://artblanc.github.io/segue-publii/blindfold-wallet/</id>
             <category term="goods"/>
 
-        <updated>2017-09-03T17:53:14+07:00</updated>
+        <updated>2017-09-03T18:35:27+07:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -31,7 +44,7 @@
         <id>https://artblanc.github.io/segue-publii/this-is-only-a-test/</id>
             <category term="goods"/>
 
-        <updated>2017-09-03T17:53:20+07:00</updated>
+        <updated>2017-09-03T18:35:09+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
