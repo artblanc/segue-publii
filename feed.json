@@ -7,7 +7,7 @@
     "user_comment": "",
     "icon": "https://artblanc.github.io/segue-publii/media/website/logo_32.svg",
     "author": {
-        "name": "Art Blanc"
+        "name": "Segue"
     },
     "items": [
         {
@@ -16,12 +16,12 @@
             "title": "Ordinary Passport Cover",
             "image": "https://artblanc.github.io/segue-publii/media/posts/9/img_2635.jpg",
             "author": {
-                "name": "Art Blanc"
+                "name": "Segue"
             },
             "tags": [
                    "goods"
             ],
-            "date_published": "2017-09-17T15:32:25+07:00",
+            "date_published": "2017-09-17T16:21:25+07:00",
             "date_modified": "2017-09-03T18:35:53+07:00"
         },
         {
@@ -30,12 +30,12 @@
             "title": "Mundane Blankfold",
             "image": "https://artblanc.github.io/segue-publii/media/posts/8/img_2633.jpg",
             "author": {
-                "name": "Art Blanc"
+                "name": "Segue"
             },
             "tags": [
                    "goods"
             ],
-            "date_published": "2017-09-17T15:32:25+07:00",
+            "date_published": "2017-09-17T16:21:25+07:00",
             "date_modified": "2017-09-03T18:35:27+07:00"
         },
         {
@@ -45,12 +45,12 @@
             "content_html": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
             "image": "https://artblanc.github.io/segue-publii/media/posts/1/img_2475.jpg",
             "author": {
-                "name": "Art Blanc"
+                "name": "Segue"
             },
             "tags": [
                    "goods"
             ],
-            "date_published": "2017-09-17T15:32:25+07:00",
+            "date_published": "2017-09-17T16:21:25+07:00",
             "date_modified": "2017-09-03T18:35:09+07:00"
         }
     ]
