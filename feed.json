@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "segue",
+    "title": "Segue",
     "description": "",
     "home_page_url": "https://artblanc.github.io/segue-publii",
     "feed_url": "https://artblanc.github.io/segue-publii/feed.json",
@@ -19,9 +19,8 @@
                 "name": "Segue"
             },
             "tags": [
-                   "goods"
             ],
-            "date_published": "2017-09-17T16:56:32+07:00",
+            "date_published": "2017-09-03T18:29:59+07:00",
             "date_modified": "2017-09-03T18:35:53+07:00"
         },
         {
@@ -33,24 +32,23 @@
                 "name": "Segue"
             },
             "tags": [
-                   "goods"
             ],
-            "date_published": "2017-09-17T16:56:32+07:00",
+            "date_published": "2017-09-03T17:28:27+07:00",
             "date_modified": "2017-09-03T18:35:27+07:00"
         },
         {
             "id": "https://artblanc.github.io/segue-publii/this-is-only-a-test/",
             "url": "https://artblanc.github.io/segue-publii/this-is-only-a-test/",
             "title": "Mundane Bifold",
+            "summary": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod&hellip;",
             "content_html": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
             "image": "https://artblanc.github.io/segue-publii/media/posts/1/img_2475.jpg",
             "author": {
                 "name": "Segue"
             },
             "tags": [
-                   "goods"
             ],
-            "date_published": "2017-09-17T16:56:32+07:00",
+            "date_published": "2017-08-19T20:35:17+07:00",
             "date_modified": "2017-09-03T18:35:09+07:00"
         }
     ]
